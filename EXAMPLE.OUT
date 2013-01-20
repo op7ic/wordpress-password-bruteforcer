@@ -1,0 +1,36 @@
+Example Success (Verbose) output:
+
+[+] Wordpress Password Bruteforcer by op7ic
+[+] contact : op7ica@gmail.com
+    [+] Running Wordpress password attack against : 5 users
+    [+] Passwords to crack: 3 for each user
+    [+] Target: http://192.168.56.56
+[-] Guess: 1 Username : admin failed with '123' password
+[-] Guess: 2 Username : admin failed with '563' password
+[-] Guess: 4 Username : blog failed with '123' password
+[-] Guess: 5 Username : blog failed with '563' password
+[-] Guess: 7 Username : crack failed with '123' password
+[-] Guess: 8 Username : crack failed with '563' password
+[-] Guess: 10 Username : hot failed with '123' password
+[-] Guess: 11 Username : hot failed with '563' password
+[+] Username : 'whc' password is 'whc'
+[!] Guess : 15
+[+] DONE!
+
+
+Example Fail (Verbose) output:
+
+[+] Wordpress Password Bruteforcer by op7ic
+[+] contact : op7ica@gmail.com
+    [+] Running Wordpress password attack against : 4 users
+    [+] Passwords to crack: 3 for each user
+    [+] Target: http://192.168.56.56
+[-] Guess: 1 Username : admin failed with '123' password
+[-] Guess: 2 Username : admin failed with '563' password
+[-] Guess: 4 Username : blog failed with '123' password
+[-] Guess: 5 Username : blog failed with '563' password
+[-] Guess: 7 Username : crack failed with '123' password
+[-] Guess: 8 Username : crack failed with '563' password
+[-] Guess: 10 Username : hot failed with '123' password
+[-] Guess: 11 Username : hot failed with '563' password
+[+] DONE!
