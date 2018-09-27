@@ -1,13 +1,13 @@
 
 This is wordpress password bruter v1.0 (no threading yet, but give me some time and I'll try to safely implement it).
 
-Any comments, ideas and improvements are more than welcome so send me a message and I`m sure going to listen ;D
+Any comments, ideas and improvements are more than welcome so send me a message and I'm sure going to listen ;D
 
 
 
 Help
 ========
-
+```
 [+] Wordpress Password Bruteforcer by op7ic
 [+] contact : op7ica@gmail.com
 Usage:
@@ -33,7 +33,7 @@ Options:
   -t TARGET, --target=TARGET
                         Target to assess
                         
-                        
+```                        
                         
 License
 ========
